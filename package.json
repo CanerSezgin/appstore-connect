@@ -9,6 +9,8 @@
   "author": "Caner Sezgin",
   "license": "ISC",
   "dependencies": {
-    "@egodigital/appstore-connect": "^0.5.0"
+    "@egodigital/appstore-connect": "^0.5.0",
+    "axios": "^0.21.1",
+    "jsonwebtoken": "^8.5.1"
   }
 }
